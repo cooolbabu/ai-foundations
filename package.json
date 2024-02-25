@@ -1,0 +1,28 @@
+{
+  "name": "ai-foundations",
+  "version": "1.0.0",
+  "description": "This web-site is for Generative AI application developer. It gives them a birds-eye view of areas to cover in their Generative AI Learning journey. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cooolbabu/ai-foundations.git"
+  },
+  "keywords": [
+    "Generative",
+    "AI",
+    "AI",
+    "Foundation",
+    "Models",
+    "Prompt",
+    "Templates"
+  ],
+  "author": "Sreenivas Angara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cooolbabu/ai-foundations/issues"
+  },
+  "homepage": "https://github.com/cooolbabu/ai-foundations#readme"
+}
